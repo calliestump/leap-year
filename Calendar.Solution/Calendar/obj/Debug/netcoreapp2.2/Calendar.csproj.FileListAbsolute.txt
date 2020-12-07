@@ -1,0 +1,9 @@
+/Users/STRAND/Desktop/leap-year/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.csprojAssemblyReference.cache
+/Users/STRAND/Desktop/leap-year/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.AssemblyInfoInputs.cache
+/Users/STRAND/Desktop/leap-year/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.AssemblyInfo.cs
+/Users/STRAND/Desktop/leap-year/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.csproj.CoreCompileInputs.cache
+/Users/STRAND/Desktop/leap-year/Calendar.Solution/Calendar/bin/Debug/netcoreapp2.2/Calendar.deps.json
+/Users/STRAND/Desktop/leap-year/Calendar.Solution/Calendar/bin/Debug/netcoreapp2.2/Calendar.dll
+/Users/STRAND/Desktop/leap-year/Calendar.Solution/Calendar/bin/Debug/netcoreapp2.2/Calendar.pdb
+/Users/STRAND/Desktop/leap-year/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.dll
+/Users/STRAND/Desktop/leap-year/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.pdb
